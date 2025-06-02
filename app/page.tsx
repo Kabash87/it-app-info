@@ -297,7 +297,7 @@ export default function ITAppLanding() {
               className="border-green-500 text-green-400 hover:bg-green-500 hover:text-black"
             >
               <Link
-                href="https://drive.google.com/drive/folders/14x83HiMIUt-mYQi2JUE9whGa3uOQsSeC?usp=drive_link"
+                href="https://drive.google.com/file/d/1J3fOpIn3vI7k7lX9Mec-SNq9637Vnf6d/view?usp=drive_link"
                 target="_blank"
               >
                 <ExternalLink className="mr-2 h-4 w-4" />
