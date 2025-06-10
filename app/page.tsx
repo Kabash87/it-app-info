@@ -181,7 +181,7 @@ export default function ITAppLanding() {
           <div className="bg-gray-800/70 rounded-lg p-8 border border-green-500/30 mb-6">
             <div className="aspect-video max-w-3xl mx-auto mb-6">
               <iframe
-                src="https://drive.google.com/file/d/1MkcF70zm-TTm4Et9WvYaZOvgfitblumT/preview"
+                src="https://drive.google.com/file/d/1W4i4RbOQmXDfb8NAoLMcoQt9vaWQpvbD/preview"
                 width="100%"
                 height="100%"
                 className="rounded-lg"
@@ -297,7 +297,7 @@ export default function ITAppLanding() {
               className="border-green-500 text-green-400 hover:bg-green-500 hover:text-black"
             >
               <Link
-                href="https://drive.google.com/file/d/1W4i4RbOQmXDfb8NAoLMcoQt9vaWQpvbD/view?t=9"
+                href="https://drive.google.com/file/d/1J3fOpIn3vI7k7lX9Mec-SNq9637Vnf6d/view?usp=drive_link"
                 target="_blank"
               >
                 <ExternalLink className="mr-2 h-4 w-4" />
